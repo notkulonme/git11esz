@@ -1,3 +1,4 @@
 alma
 körte
 szöllő
+ez egy alma
