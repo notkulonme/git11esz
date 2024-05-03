@@ -1,2 +1,3 @@
 ez egy valami
 sikló
+git commit-add testje
